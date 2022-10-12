@@ -1,5 +1,5 @@
 class Profissao {
-  // Atributos da classe Pessoa(aquilo que caracteriza uma pessoa)
+  // Atributos da classe Profissão(aquilo que caracteriza uma Profissão)
 
   // Em Dart, as variáveis precisam ser inicializadas por conta do null-safety(variáveis não podem ser nulas)
 

@@ -1,3 +1,5 @@
+package linguagem_java.classes_e_objetos.loja_e_produto;
+
 public class Main {
     public static void main(String[] args) {
         Localizacao localLojaEsportes = new Localizacao("Rua Sousa", 356);

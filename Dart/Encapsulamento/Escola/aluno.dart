@@ -16,7 +16,7 @@ class Aluno {
   // Assim, não precisam de parêntesese em Dart.
   String get getCpf => _cpf;
 
-  void set getMattricula(String matriculaEspecifica) =>
+  void set setMatricula(String matriculaEspecifica) =>
       _matricula = matriculaEspecifica;
 
   String get getMatricula => _matricula;

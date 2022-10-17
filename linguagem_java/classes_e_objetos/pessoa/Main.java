@@ -1,3 +1,5 @@
+package linguagem_java.classes_e_objetos.pessoa;
+
 public class Main {
     public static void main(String[] args) {
         // Instância dos objetos

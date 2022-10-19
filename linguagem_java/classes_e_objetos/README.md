@@ -2,4 +2,5 @@
 
  - **Classes** são grupos, são conjuntos de coisas físicas ou abstratas(que não podem ser tocadas). Exemplo disso são pessoas, veículos, animais, esportes, etc. Assim, podemos definir cada um desses conjuntos como classes: clase Pessoa, classe Veículo, classe Esporte. 
  - Cada conjunto destes é formado por integrantes que possuem características em comum. Por exemplo: todo animal tem uma espécie, nicho e nome científico; todo esporte têm regras, jogadores e modalidades. A isso, dá-se o nome de **atributos de uma classe**. Ou seja, aquilo que caracteriza o integrante daquele grupo(classe). 
+ - Cada integrante dessas classes é um **objeto da classe**. Assim, uma pessoa é um objeto da classe Pessoa, um animal é um objeto da classe Animal, um esporte é um objeto da classe Esporte.
  - Além disso, os integrantes desses grupos têm comportamentos em comum. Por exemplo, todo veículo se locomove, toda pessoa se comunica, todo esporte se pode jogar. A esses comportamentos específicos, dá-se o nome de **métodos de uma classe**. 

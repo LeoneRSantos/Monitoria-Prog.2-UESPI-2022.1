@@ -1,4 +1,4 @@
-package linguagem_java.classes_e_objetos.loja_e_produto;
+package classes_e_objetos.loja_e_produto;
 
 public class Loja {
     // Atributos da classe Loja(aquilo que caracteriza uma loja)

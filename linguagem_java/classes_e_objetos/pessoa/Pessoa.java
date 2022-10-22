@@ -1,4 +1,4 @@
-package linguagem_java.classes_e_objetos.pessoa;
+package classes_e_objetos.pessoa;
 /**
  * @author Leone Rodrigues Santos
  *         Pessoa

@@ -1,4 +1,4 @@
-package linguagem_java.classes_e_objetos.loja_e_produto;
+package classes_e_objetos.loja_e_produto;
 
 public class Localizacao {
     // Atributos da classe Localização

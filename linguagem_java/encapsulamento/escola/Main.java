@@ -1,4 +1,4 @@
-package linguagem_java.encapsulamento.escola;
+package encapsulamento.escola;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,5 @@
 import 'cliente.dart';
+import 'transacao.dart';
 
 class ContaCorrente {
   double _saldo = 0.0;
@@ -37,8 +38,8 @@ class ContaCorrente {
   }
 
   // Depositar
-  String depositar(ContaCorrente conta, double quantia){ 
-    return "R\$ $quantia foram depositados. \nConta: ${conta.getNumero} \nCliente: ${conta._cliente.getNome} \nSaldo atual: ${conta.getSaldo + quantia}";
+  String depositar(ContaCorrente conta, double quantia, Transacao operacao){ 
+    return "${operacao.getTipo} de R\$ $quantia. \nConta: ${conta.getNumero} \nCliente: ${conta._cliente.getNome} \nSaldo atual: ${conta.getSaldo + quantia} \nData: ${operacao.getData}";
   }
 
   // Sacar
